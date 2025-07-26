@@ -1,0 +1,5 @@
+DisparityID,CountryID,Year,IndicatorName,RuralValue_Percent,UrbanValue_Percent,OverallValue_Percent
+1,IND,2011,Electricity Access,55.3,92.7,67.2
+2,IND,2011,Toilet Facility,30.7,81.4,46.9
+3,IND,2011,LPG_PNG_Cooking,11.4,65,28.5
+4,IND,2011,Drinking Water within Premises,30.8,71.2,46.7

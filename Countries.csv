@@ -1,0 +1,16 @@
+CountryID,CountryName,Region,DevelopmentStatus,Population_2023,Area_SqKm
+IND,India,South Asia,Developing,1428627663,3287590
+USA,United States,North America,Developed,334805269,9833520
+DEU,Germany,Europe & Central Asia,Developed,83294627,357114
+JPN,Japan,East Asia & Pacific,Developed,123294513,377975
+GBR,United Kingdom,Europe & Central Asia,Developed,67736802,243610
+CAN,Canada,North America,Developed,38781291,9984670
+AUS,Australia,East Asia & Pacific,Developed,26439111,7741220
+CHN,China,East Asia & Pacific,Developing,1425671352,9596961
+BRA,Brazil,Latin America & Caribbean,Developing,216422446,8515767
+BGD,Bangladesh,South Asia,Developing,172954319,147570
+IDN,Indonesia,East Asia & Pacific,Developing,277534122,1904569
+ZAF,South Africa,Sub-Saharan Africa,Developing,60414495,1221037
+MEX,Mexico,Latin America & Caribbean,Developing,127504125,1964375
+VNM,Vietnam,East Asia & Pacific,Developing,98858950,331212
+NGA,Nigeria,Sub-Saharan Africa,Developing,223804632,923768
