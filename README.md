@@ -67,8 +67,6 @@ Designed an interactive **12-page report** with page-wise insights:
 | 11      | Trends Over Time                 | Line/Area charts                |
 | 12      | Final Summary & Suggestions      | Recommendations                 |
 
-📸 [Screenshots](./Dashborad1/) folder shows sample visuals
-
 ---
 
 ## 📌 Key Insights
